@@ -1,4 +1,4 @@
-Google Cloud Storage Bucket Access and File Upload
+<h1> Google Cloud Storage Bucket Access and File Upload </h1>
 
 This project contains Python code for accessing a specific storage bucket in Google Cloud and uploading files to it.
 
